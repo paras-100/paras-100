@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-100&label=Profile%20views&color=0e75b6&style=flat" alt="paras-100" /> </p>
 
-- 🔭 I’m currently working on [Real Time Chat Application with a UI similar to Whatsapp](https://github.com/paras-100/chatApp)<br><br>- 🌱 I’m currently learning **MERN Stack Development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/paras-100](https://github.com/paras-100)<br><br>- 💬 Ask me about **MERN Stack**<br><br>- 📫 How to reach me **paras26042004@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1cTPGNGaDn93kQq4q5pvMySU_V5By9iI9/view?usp=sharing](https://drive.google.com/file/d/1cTPGNGaDn93kQq4q5pvMySU_V5By9iI9/view?usp=sharing)
+- 🔭 I’m currently working on [Real Time Chat Application with a UI similar to Whatsapp](https://github.com/paras-100/chatApp)<br><br>- 🌱 I’m currently learning **MERN Stack Development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/paras-100](https://github.com/paras-100)<br><br>- 💬 Ask me about **MERN Stack**<br><br>- 📫 How to reach me **paras26042004@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1_EH6je2Z1hafEx8jrgxRxCB4fUrUk79j/view?usp=sharing](https://drive.google.com/file/d/1_EH6je2Z1hafEx8jrgxRxCB4fUrUk79j/view?usp=sharing)
 
 ## 🌐 Socials:
 
